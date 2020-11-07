@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">404 Not Found</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,16 +8,16 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="#">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="#">
       Challenge
+    </a>
+    <span> | </span>
+    <a href="#">
+      Demo
     </a>
   </h3>
 </div>
@@ -26,50 +26,65 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Overview](#overview)
 
-<!-- OVERVIEW -->
 
-## Overview
+### Where can I see your demo
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+- You can click on the link her --> [Demo](https://devchallenges-404-not-found.ishakbhn.vercel.app/)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+### What was your experience
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- its was quick, also i used table for collage pictures
+
+### What have you learned/improved
+
+- using tables 
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I) was to build an application to complete the given user stories.
-
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. 
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
+- [linkedIn Courses for basics](https://opportunity.linkedin.com/skills-for-in-demand-jobs)
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [CSS Reset](https://dev.to/zellwk/my-css-reset--jbp?signin=true)
+- [The Responsive Web Design Bootcamp](https://scrimba.com/learn/responsive)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub   [@Jervi-sir](https://{github.com/Jervi-sir})
+- Facebook [Gacem_humen](https://www.facebook.com/gacem.humen/)
+- Twitter  comingsoon
+- Youtube  comingsoon
+
+
+
+<!-- OVERVIEW -->
+
+## Overview
+
+### Larger Screen 
+![screenshot](screenshots/default.png)
+___
+### Phone's Screen
+
+<p align="center">
+  <img src="screenshots/phone.png">
+</p>

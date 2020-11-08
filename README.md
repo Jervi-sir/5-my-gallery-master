@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 Not Found</h1>
+<h1 align="center">My Gallery</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="#">
+    <a href="https://github.com/Jervi-sir/5-my-gallery-master">
       Solution
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
       Challenge
     </a>
     <span> | </span>
-    <a href="#">
+    <a href="https://5-my-gallery-jervi.netlify.app/">
       Demo
     </a>
   </h3>

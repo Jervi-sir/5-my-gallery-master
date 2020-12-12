@@ -35,7 +35,7 @@
 
 ### Where can I see your demo
 
-- You can click on the link her --> [Demo](https://devchallenges-404-not-found.ishakbhn.vercel.app/)
+- You can click on the link her --> [Demo](https://5-my-gallery-jervi.netlify.app/)
 
 ### What was your experience
 
